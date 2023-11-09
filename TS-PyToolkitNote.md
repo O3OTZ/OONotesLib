@@ -1,20 +1,20 @@
 ## 时序分析Py工具包
 
-### prophet
+### [prophet](https://github.com/facebook/prophet)
 
 `github` ⭐17.1k
 
 - 仅适用单变量的时序预测模型
 - 仅支持 prophet 这一个模型。
 
-### tsfresh
+### [tsfresh](https://github.com/blue-yonder/tsfresh)
 
 `github` ⭐7.8k
 
 - 用于时序特征工程，包括对时间序列自动提取特征、特征选择、特征转换等
 - 不能用于实现时序预测或时序分类等任务。
 
-### sktime
+### [sktime](https://github.com/sktime/sktime)
 
 `github` ⭐7k
 
@@ -39,7 +39,7 @@
 | **[Annotation]** | experimental | [Extension Template](https://github.com/sktime/sktime/blob/main/extension_templates/annotation.py) |
 | **[Distributions and simulation]** | experimental |  |
 
-### darts 
+### [darts](https://github.com/unit8co/darts) 
 
 `github` ⭐6.6k
 
@@ -94,7 +94,7 @@
 | [RegressionEnsembleModel](https://unit8co.github.io/darts/generated_api/darts.models.forecasting.regression_ensemble_model.html#darts.models.forecasting.regression_ensemble_model.RegressionEnsembleModel)                                                                                             |                                                                                                                                                                                                                                   | 🟩 🟩                                                        | 🟩 🟩 🟩                                                                 | 🟩 🟩                                                                    | 🟩                                        |
 
 
-### Kats 
+### [Kats](https://github.com/facebookresearch/Kats) 
 
 `github` ⭐4.6k
 
@@ -104,7 +104,7 @@
 - 产生65个特征的特征工程模块
 - 对时间序列数据建立预测模型，包括Prophet、ARIMA、Holt Winters等。
 
-### gluonts 
+### [gluonts](https://github.com/awslabs/gluonts) 
 
 `github` ⭐3.9k
 
@@ -273,7 +273,7 @@
 </tbody>
 </table>
 
-### Merlion 
+### [Merlion](https://github.com/salesforce/Merlion) 
 
 `github` ⭐3.1k
 
@@ -283,7 +283,7 @@
 - 对于时序预测任务，支持统计学模型和机器学习模型，其中统计学模型包括ARIMA、ETS、Prophet等；而机器学习模型则主要是基于决策树的集成模型，例如RF和GB等。
 - 支持自动绘制真实值和预测结果及置信区间的对比曲线
 
-### tslearn 
+### [tslearn](https://github.com/tslearn-team/tslearn) 
 
 `github` ⭐2.6k
 
@@ -302,7 +302,7 @@
 |                                                                                                                                                                                              |                                                                                                                         |                                                                                                                                                                  | [Early Classification](https://tslearn.readthedocs.io/en/stable/gen_modules/tslearn.early_classification.html#module-tslearn.early_classification)                                      |                                                                                                                                                                                      | [Matrix Profile](https://tslearn.readthedocs.io/en/stable/gen_modules/tslearn.matrix_profile.html#module-tslearn.matrix_profile)     |
 
 
-### AutoTS 
+### [AutoTS](https://github.com/winedarksea/AutoTS) 
 
 `github` ⭐883
 
@@ -315,7 +315,7 @@ AutoTS 是一个自动化的时间序列预测库，可以使用简单的代码�
 - 它还可以通过学习最优NaN插补和异常值去除来处理混乱的数据
 - 它可以运行单变量和多变量时间序列
 
-### atspy 
+### [atspy](https://github.com/firmai/atspy) 
 
 `github` ⭐496
 
@@ -323,7 +323,7 @@ AutoTS 是一个自动化的时间序列预测库，可以使用简单的代码�
 - 该库的目标是预测单变量时间序列
 - 可以加载数据并指定要运行的模型
 
-### PaddleTS 
+### [PaddleTS](https://github.com/PaddlePaddle/PaddleTS) 
 
 `github` ⭐405
 
